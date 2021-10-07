@@ -1,36 +1,4 @@
 
-<a name="0.7.10"></a>
-## [0.7.10](https://github.com/redhat-developer/app-services-operator/compare/0.7.9...0.7.10) (2021-09-17)
-
-
-<a name="0.7.9"></a>
-## [0.7.9](https://github.com/redhat-developer/app-services-operator/compare/0.7.8...0.7.9) (2021-09-07)
-
-### Bug Fixes
-
-* creating string constants for KafkkaConnection labels
-* /s/cloud.redhat.com/console.redhat.com/g ([#249](https://github.com/redhat-developer/app-services-operator/issues/249))
-* using new operatorhub repository ([#248](https://github.com/redhat-developer/app-services-operator/issues/248))
-
-### Features
-
-* enforcing labels on KafaConnection
-* changing org names from com.openshift.cloud to cloud.redhat.com ([#255](https://github.com/redhat-developer/app-services-operator/issues/255))
-
-
-<a name="0.7.8"></a>
-## [0.7.8](https://github.com/redhat-developer/app-services-operator/compare/0.7.7...0.7.8) (2021-08-03)
-
-### Documentation
-
-* add group ID config to quickstarts ([#242](https://github.com/redhat-developer/app-services-operator/issues/242))
-
-### Features
-
-* added new RHOSAK icons from brand to Quick Starts ([#247](https://github.com/redhat-developer/app-services-operator/issues/247))
-* new icon
-
-
 <a name="0.7.7"></a>
 ## [0.7.7](https://github.com/redhat-developer/app-services-operator/compare/0.7.6...0.7.7) (2021-07-19)
 
